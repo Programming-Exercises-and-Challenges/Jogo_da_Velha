@@ -1,10 +1,10 @@
-# Jogo da Velha 
+#  Jogo da Velha 
+##### Desafio Digital Inovation 
 
-### Criado utilizando as seguintes ferramentas 
+Desafio para o Bootcamp da Dio de construi o jogo da velha em HTML, CSS e JavaScript.
 
-- HTML 5
-- CSS3
-- JavaScript 
+<i>Desenvolvido por [HMontarroyos](https://github.com/HMontarroyos)</i>
 
+![velha](https://user-images.githubusercontent.com/60220406/138487187-3f81f62b-dc3a-4297-8190-64a95de67d20.gif)
 
-<img width="868" alt="velha" src="https://user-images.githubusercontent.com/60220406/90988804-192f9980-e56c-11ea-84fb-9bc658b21d2d.png">
+### 🚀 Let's code! 🚀
