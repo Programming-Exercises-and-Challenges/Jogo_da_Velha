@@ -1,7 +1,7 @@
 #  Jogo da Velha 
 ##### Desafio Digital Inovation 
 
-Desafio para o Bootcamp da Dio de construi o jogo da velha em HTML, CSS e JavaScript.
+Desafio para o Bootcamp da Dio de construir o jogo da velha em HTML, CSS e JavaScript.
 
 <i>Desenvolvido por [HMontarroyos](https://github.com/HMontarroyos)</i>
 
